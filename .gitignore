@@ -9,3 +9,6 @@ dist/
 # Temporary files
 *.tmp
 *.bak
+
+# Keil GUI layout
+*.uvguix.*
