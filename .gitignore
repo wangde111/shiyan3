@@ -1,0 +1,11 @@
+# Keil build output
+Output/*
+!Output/*.hex
+
+# Git / packaging
+.git/
+dist/
+
+# Temporary files
+*.tmp
+*.bak
